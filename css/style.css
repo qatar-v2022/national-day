@@ -1,19 +1,4 @@
-/*--------------------------------------------------------------
-# Basics
---------------------------------------------------------------*/
-body {
-	overflow-x: hidden;
-}
-html {
-	overflow-y: scroll;
-	overflow-x: hidden;
-}
-ul {
-	list-style: none;
-}
-textarea, input, a, button { 
-	outline: none;
-}
+
 
 /*--------------------------------------------------------------
 # Typography
